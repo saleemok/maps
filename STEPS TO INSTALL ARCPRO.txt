@@ -1,0 +1,27 @@
+arcmap pro
+1.dotnet-sdk-6.0.400-win-x64
+2. ArcGISPro_30_182209
+3. ArcGIS_Pro_301_182232
+4. ArcGIS_Pro_302_182231
+5.ArcGISPro_30_Data_Interop_Ext_182240
+6. ArcGISPro_30_Help_182233
+7.copy AfCore file to program files arcgis pro bin 
+
+regedit
+1. HKEY_CURRENT_USER
+	SOFTWARE
+	ESRI
+	ARCPRO
+	REMOVE LICIENCE FOLDER
+2. HKEY_LOCAL_MACHINE
+	SOFTWARE
+	ESRI
+	ARCPRO
+	REMOVE LICIENCE FOLDER
+
+OPEN INTERNET
+OPEN ARCMAP PRO
+
+	
+
+
